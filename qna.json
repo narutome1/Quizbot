@@ -10,16 +10,41 @@
             {
                 "id": 2,
                 "answer": "Jupiter",
-                "is_correct": false
+                "is_correct": true
             },
             {
                 "id": 3,
                 "answer": "Mars",
-                "is_correct": true
+                "is_correct": false
             },
             {
                 "id": 4,
                 "answer": "Uranus",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Which colour has the longest wavelength?",
+        "answers": [
+            {
+                "id": 1,
+                "answer": "Green",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer": "Blue",
+                "is_correct": false
+            },
+            {
+                "id": 3,
+                "answer": "Red",
+                "is_correct": true
+            },
+            {
+                "id": 4,
+                "answer": "Violet",
                 "is_correct": false
             }
         ]
